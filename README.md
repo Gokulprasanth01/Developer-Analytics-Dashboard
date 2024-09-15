@@ -28,10 +28,11 @@ The objective of this project is to create an interactive dashboard that allows 
 To run this project locally, follow these steps:
 
 ### 1. Clone the Repository
-
 ```bash
 git clone https://github.com/yourusername/github-performance-dashboard.git
 cd github-performance-dashboard
+```
+
 ### 2. Install Dependencies
 
 Before running the app, ensure you have Python installed on your machine (preferably version 3.7+). Then, install the required packages by running:
