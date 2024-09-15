@@ -91,7 +91,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 If you have any questions or suggestions regarding the project, feel free to reach out to:
 
 - **Author**: Gokulprasanth N
-- **Email**: gokulprasanth@example.com
+- **Email**: gokulprasanth0127@gmail.com
 
 ![{E9ECFCD3-B570-47D1-8655-F34FE9B1E367}](https://github.com/user-attachments/assets/da7c2e0a-81d9-4ade-9017-c8693d59fd22)
 ![{33A4BA3A-A1C2-47CA-BC2A-B5D466EA290E}](https://github.com/user-attachments/assets/94f7da25-87a4-49b7-9cfd-0f8a7235a683)
