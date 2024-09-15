@@ -1,0 +1,10 @@
+streamlit
+PyGithub
+pandas
+plotly
+transformers
+mysql-connector-python
+tensorflow
+torch
+torchvision 
+torchaudio
