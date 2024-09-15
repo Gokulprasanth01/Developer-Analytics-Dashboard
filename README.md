@@ -1,6 +1,3 @@
-Here's a `README.md` file tailored for your GitHub Performance Dashboard project:
-
-```markdown
 # GitHub Performance Dashboard
 
 This project provides a simple dashboard to analyze GitHub repository performance, including pull request statistics, issue tracking, and more. It is built using Streamlit and Python, with GitHub's REST API for data collection.
@@ -35,8 +32,6 @@ To run this project locally, follow these steps:
 ```bash
 git clone https://github.com/yourusername/github-performance-dashboard.git
 cd github-performance-dashboard
-```
-
 ### 2. Install Dependencies
 
 Before running the app, ensure you have Python installed on your machine (preferably version 3.7+). Then, install the required packages by running:
